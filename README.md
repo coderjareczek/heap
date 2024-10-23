@@ -24,7 +24,7 @@ Run:
 
 You should see that all tests have PASSED.  
 
-##Operations
+## Operations
 *n* = number of items in the heap
 
 - **Insert** - *O(log n)*: add a new item to the heap
